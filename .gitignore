@@ -1,3 +1,5 @@
 .env
 node_modules
 dist
+public/songs/
+public/assets/
