@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true,
+        "experimentalDecorators": true,
+        "outDir": "./dist",
+        "rootDir": "./src"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
